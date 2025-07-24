@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos temporales
+*.pyc
+.DS_Store
+
+# Resultados
+salida_politicas/
